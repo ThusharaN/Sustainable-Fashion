@@ -24,9 +24,6 @@ The expected outcome of this project was to create a proof-of-concept in the for
 - `Garment Instance Segmentation/`: This directory contains the source code for the Mask R-CNN model developed for Garment localisation and Instance Segmentation built on the DeepFashion2 Dataset.
 
 
-## Contributors
-- [Thushara Thulasidas](https://github.com/ThusharaN)
-
 ## Datasets
 - [The Fabrics Dataset](https://ibug.doc.ic.ac.uk/resources/fabrics/)
 - [Deepfashion2](https://drive.google.com/drive/folders/125F48fsMBz2EF0Cpqk6aaHet5VH399Ok)
